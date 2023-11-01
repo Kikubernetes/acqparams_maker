@@ -18,7 +18,7 @@ FSL
 
 1. Clone this repository.
 2. Put your json files in this directory.
-3. run the following command:
+3. Run the following command:
 
 ```
 cd acqparams_maker
@@ -26,4 +26,4 @@ cd acqparams_maker
    ```
 
 4. You will be asked how many b0s you want to use for topup. You may choose from a minimum of one to a maximum of b0  volumes.
-5. Note that when you will merge b0s for topup --imain, the order of files should be $1 first and $2 second.
+5. Note that the order of files should be $1 first and $2 second when you will merge b0s for topup --imain,
